@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../../thesis-master-code/.idea/thesis-master-code.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/thesis-master-code-smDlYN4m-py3.9/bin/python" />
+              <option name="sdkName" value="Python 3.9 (thesis-master-code-smDlYN4m-py3.9)" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
